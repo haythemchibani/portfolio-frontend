@@ -3,8 +3,9 @@
 export const projects = [
   {
     title: "Quality Control Web App",
-    description: "MERN app for managing industrial checklists with QR code signatures.",
-    tech: "Next.js, Node, MongoDB",
-    github: "https://github.com/yourrepo",
+    description:
+      "Full-stack MERN application for managing industrial quality checklists with QR code signatures and validation workflow.",
+    tech: ["Next.js", "Node.js", "Express", "MongoDB"],
+    github: "https://github.com/haythemchibani/portfolio-backend",
   },
 ]
